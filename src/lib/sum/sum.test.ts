@@ -1,4 +1,4 @@
-import { sum } from "src/sum/sum";
+import { sum } from "src/lib/sum/sum";
 
 describe("sum()", () => {
   it("returns the sum of two numbers", () => {
